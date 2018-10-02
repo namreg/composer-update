@@ -1,6 +1,6 @@
 ## Composer update
 
-Dead simple utility that used for updating [composer](https://getcomposer.org) in multiple projects. Every project updates concurrently.
+Dead simple utility that used for updating [composer package manager](https://getcomposer.org) in multiple projects. Every project updates concurrently.
 
 Available options:
 ```
